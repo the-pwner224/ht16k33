@@ -1,0 +1,38 @@
+# KEYWORD1: Types
+
+Backpack	KEYWORD1
+
+
+
+# KEYWORD2: Functions
+
+init	KEYWORD2
+
+clear	KEYWORD2
+fill	KEYWORD2
+flush	KEYWORD2
+
+setBrightness	KEYWORD2
+setBlinkRate	KEYWORD2
+
+setDigit	KEYWORD2
+setColon	KEYWORD2
+
+setClock	KEYWORD2
+setNumber	KEYWORD2
+
+setDecimal	KEYWORD2
+setDecimals	KEYWORD2
+
+setDotLowerLeft	KEYWORD2
+setDotUpperLeft	KEYWORD2
+setDotUpperRight	KEYWORD2
+setDots	KEYWORD2
+
+
+
+# KEYWORD3: structures
+
+
+
+# LITERAL1: Constants
